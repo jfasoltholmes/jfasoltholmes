@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hello, my name is Jordan! <br/><a href="https://github.com/jfasoltholmes">Github</a>, <a href="https://www.linkedin.com/in/jfasoltholmes/">LinkedIn</a></h1>
 
-<!--
-**jfasoltholmes/jfasoltholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+  - [Recreation of NY Times's "Wordle"](https://github.com/jfasoltholmes/wordle)
+  - [Recreation of Atari's "Breakout"](https://github.com/jfasoltholmes/breakout)
+    
+<h2>📜 Certifications:</h2>
+<!---
+- <b>Company Placeholder</b>
+  - [CERT1](https://github.com/jfasoltholmes)
+--->
