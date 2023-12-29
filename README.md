@@ -5,6 +5,8 @@
 - <b>Python</b>
   - [Recreation of NY Times's "Wordle"](https://github.com/jfasoltholmes/wordle)
   - [Recreation of Atari's "Breakout"](https://github.com/jfasoltholmes/breakout)
+- <b>HTML/Javascript</b>
+  - [[WIP] Sigma Chi Alumni Emailer Using SMTP](https://github.com/Pmcslarrow/TribuneLetter)
     
 <h2>📜 Certifications:</h2>
 <!---
