@@ -1,4 +1,4 @@
-<h1>Hello, my name is Jordan! <br/><a href="https://github.com/jfasoltholmes">Github</a>, <a href="https://www.linkedin.com/in/jfasoltholmes/">LinkedIn</a></h1>
+<h1>Hello, my name is Jordan! <br/><a href="https://www.linkedin.com/in/jfasoltholmes/">LinkedIn</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
