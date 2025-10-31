@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
+  - [Graph Algorithm Traversal Analysis](https://github.com/jfasoltholmes/graph-assignment-jfasoltholmes)
   - [Recreation of NY Times's "Wordle"](https://github.com/jfasoltholmes/wordle)
   - [Recreation of Atari's "Breakout"](https://github.com/jfasoltholmes/breakout)
 - <b>HTML/CSS/Javascript</b>
